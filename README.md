@@ -4,7 +4,7 @@ Este projeto contém um programa em Java (`ValorEParcelas.java`) que calcula o v
 
 ---
 
-### Funcionalidades
+## Funcionalidades
 
 O programa realiza as seguintes operações:
 
@@ -15,7 +15,7 @@ O programa realiza as seguintes operações:
 
 ---
 
-### Como Executar
+## Como Executar
 
 Para rodar este programa, você precisará ter o Java instalado em seu computador.
 
