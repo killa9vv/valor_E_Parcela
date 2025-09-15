@@ -1,10 +1,10 @@
-# Projeto de Cálculo de Parcelas em Java
+## Projeto de Cálculo de Parcelas em Java
 
 Este projeto contém um programa em Java (`ValorEParcelas.java`) que calcula o valor das parcelas de uma compra. O objetivo é demonstrar o uso de um método para realizar um cálculo específico, aplicando juros de 5% sobre o valor total.
 
 ---
 
-## Funcionalidades
+### Funcionalidades
 
 O programa realiza as seguintes operações:
 
@@ -15,7 +15,7 @@ O programa realiza as seguintes operações:
 
 ---
 
-## Como Executar
+### Como Executar
 
 Para rodar este programa, você precisará ter o Java instalado em seu computador.
 
